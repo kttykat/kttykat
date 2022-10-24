@@ -1,6 +1,21 @@
-hey, im saige 👋
-
-A 15 year old solo developer, building & designing all kind of stuff.<br/>
-currently creating stuff at [zeeum](https://github.com/zeeum).
-
-[github](https://github.com/kttykat) • [portfolio](https://kat.pics) • [jai](https://jai.kat.pics)
+<p float="left">
+  <img src="side.jpg" width="250" align="left">
+  <p float="left">
+    <samp>
+      my stack
+      <br>
+      languages: javascript/typescript, html, css
+      <br>
+      frameworks: react/next.js
+      <br>
+      databases: mongodb
+      <br>
+      <br>
+      <a href="https://discord.com/users/974025524546531380">@Saige#0934</a>
+      <br>
+    </samp>
+    <br>
+    <br>
+ <img width="100px" src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fkttykat" />
+  </p>
+</p>
