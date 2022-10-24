@@ -14,6 +14,7 @@
       <a href="https://discord.com/users/974025524546531380">@Saige#0934</a>
       <br>
     </samp>
+    <br>
  <img width="100px" src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fkttykat" />
   </p>
 </p>
