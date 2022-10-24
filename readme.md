@@ -11,7 +11,8 @@
       databases: mongodb
       <br>
       <br>
-      <a href="https://discord.com/users/974025524546531380">@Saige#0934</a>
+      <a href="https://discord.com/users/974025524546531380">@Saige#0934</a><br>
+      inspired by <a href="https://github.com/jckli">/jckli</a>
       <br>
     </samp>
     <br>
